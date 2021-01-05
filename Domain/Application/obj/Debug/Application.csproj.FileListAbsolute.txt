@@ -1,0 +1,11 @@
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Application\bin\Debug\Application.dll
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Application\bin\Debug\Application.pdb
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Application\bin\Debug\Domain.dll
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Application\bin\Debug\Infrastructure.dll
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Application\bin\Debug\EntityFramework.dll
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Application\bin\Debug\Domain.pdb
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Application\bin\Debug\Infrastructure.pdb
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Application\bin\Debug\EntityFramework.xml
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Application\obj\Debug\Application.csprojResolveAssemblyReference.cache
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Application\obj\Debug\Application.dll
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Application\obj\Debug\Application.pdb
