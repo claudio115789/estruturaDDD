@@ -1,0 +1,4 @@
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Domain\bin\Debug\Domain.dll
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Domain\bin\Debug\Domain.pdb
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Domain\obj\Debug\Domain.dll
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Domain\obj\Debug\Domain.pdb
