@@ -1,0 +1,12 @@
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Infrastructure\bin\Debug\Infrastructure.dll
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Infrastructure\bin\Debug\Infrastructure.pdb
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Infrastructure\obj\Debug\Infrastructure.dll
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Infrastructure\obj\Debug\Infrastructure.pdb
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Infrastructure\bin\Debug\Infrastructure.dll.config
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Infrastructure\bin\Debug\Domain.dll
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Infrastructure\bin\Debug\Domain.pdb
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\claudio\Documents\Visual Studio 2015\Projects\AulaDDD\Domain\Infrastructure\obj\Debug\Infrastructure.csprojResolveAssemblyReference.cache
